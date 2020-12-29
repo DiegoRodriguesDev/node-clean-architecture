@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "autDir": "./dist",
+        "outDir": "./dist",
         "module": "CommonJS",
         "target": "es2019",
         "esModuleInterop": true,
